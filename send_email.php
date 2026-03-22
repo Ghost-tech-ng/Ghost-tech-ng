@@ -219,15 +219,18 @@ try {
 
     // Send email
     $mail->send();
-    
+
     $response['success'] = true;
     $response['message'] = 'Email sent successfully to ' . $toEmail;
-    
+
+    // Log successful email activity
+    logEmailActivity($toEmail, $subject, 'success', 'Email sent successfully');
+
     // Clean up uploaded files after sending
     if (!empty($profilePicturePath) && file_exists($profilePicturePath)) {
         unlink($profilePicturePath);
     }
-    
+
     foreach ($documentPaths as $doc) {
         if (file_exists($doc['path'])) {
             unlink($doc['path']);
@@ -237,7 +240,15 @@ try {
 } catch (Exception $e) {
     $response['message'] = 'Error: ' . $e->getMessage();
     $response['debug'][] = 'Exception: ' . $e->getMessage();
-    
+
+    // Log failed email activity
+    logEmailActivity(
+        isset($toEmail) ? $toEmail : (isset($_POST['to_email']) ? $_POST['to_email'] : 'unknown'),
+        isset($subject) ? $subject : (isset($_POST['subject']) ? $_POST['subject'] : 'unknown'),
+        'error',
+        $e->getMessage()
+    );
+
     // Log error for debugging
     error_log('BeautyMail Error: ' . $e->getMessage());
 }
