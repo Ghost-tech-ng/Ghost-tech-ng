@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=160&section=header&text=Eghosa%20Osemwegie&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Lead%20Backend%20Developer%20%26%20AI%20Engineer&descSize=16&descAlignY=60&descFontColor=8b949e" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Eghosa%20Osemwegie&fontSize=44&fontColor=fff&fontAlignY=38&desc=Lead%20Backend%20Developer%20%26%20AI%20Engineer&descSize=16&descAlignY=60&descFontColor=ffffffcc" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=520&lines=Microservices+Architecture+%7C+LLM+Integration;FinTech+%7C+Healthcare+AI+%7C+E-Commerce;Python+%7C+FastAPI+%7C+Node.js+%7C+Docker)](https://git.io/typing-svg)
 
