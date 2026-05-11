@@ -179,15 +179,21 @@ React Native application using device accelerometer data for passive tremor dete
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ghost-tech-ng&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&hide_title=true&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" height="155"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ghost-tech-ng&theme=github_dark" height="155"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghost-tech-ng&layout=compact&langs_count=8&theme=github_dark&hide_border=true&hide_title=true&text_color=8b949e&bg_color=0d1117" height="155"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghost-tech-ng&theme=github_dark" height="155"/>
 
 </div>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Ghost-tech-ng&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" height="155"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghost-tech-ng&theme=github_dark" width="100%"/>
 
 </div>
 
