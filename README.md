@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Eghosa%20Osemwegie&fontSize=44&fontColor=fff&fontAlignY=38&desc=Lead%20Backend%20Developer%20%26%20AI%20Engineer&descSize=16&descAlignY=60&descFontColor=ffffffcc" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=1&pause=9999999&color=E6EDF3&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Eghosa+Osemwegie"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=1&pause=9999999&color=1F2328&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Eghosa+Osemwegie"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=1&pause=9999999&color=8B949E&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Lead+Backend+Developer+%26+AI+Engineer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=1&pause=9999999&color=57606a&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Lead+Backend+Developer+%26+AI+Engineer"/>
+</picture>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=520&lines=Microservices+Architecture+%7C+LLM+Integration;FinTech+%7C+Healthcare+AI+%7C+E-Commerce;Python+%7C+FastAPI+%7C+Node.js+%7C+Docker)](https://git.io/typing-svg)
 
@@ -213,4 +223,3 @@ React Native application using device accelerometer data for passive tremor dete
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
