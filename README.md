@@ -42,6 +42,12 @@ B.Eng in Computer Engineering from the University of Benin. Fullstack certificat
 
 &nbsp;`FastAPI` &nbsp;`Node.js` &nbsp;`Laravel` &nbsp;`Express` &nbsp;`REST & GraphQL APIs` &nbsp;`WebSocket` &nbsp;`Microservices`
 
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark" height="36"/>
+
+&nbsp;`Flutter` &nbsp;`Dart` &nbsp;`React Native` &nbsp;`Expo`
+
 **Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=docker,aws,gcp,nginx,linux&theme=dark" height="36"/>
@@ -118,14 +124,16 @@ Spatial analytics pipeline analysing 13,097 businesses across 55 H3 hexagonal zo
 <tr>
 <td width="50%" valign="top">
 
-**GiftyView — Gift Card & Payments Platform**
-*Private · Active Production*
+**[GiftyView](https://github.com/Ghost-tech-ng/giftyview-backend) — Gift Card & Payments Platform**
+*Active Production · [App](https://github.com/Ghost-tech-ng/giftyview-app) · [API](https://github.com/Ghost-tech-ng/giftyview-backend)*
 
-Full-stack FinTech platform for digital gift card sales and utility bill payments. Separate services for the consumer app, backend API, and admin panel. Mobile-first React Native frontend with real-time transaction processing.
+Production FinTech platform for global gift card trading, crypto exchange, and utility bill payments. Flutter cross-platform app backed by a TypeScript/Prisma API integrating Flutterwave, Paystack, and Korapay for fiat payments; Bitnob, Quidax, and NowPayments for crypto; Reloadly and Prestmit for gift card fulfilment; VTPass for bills; SmileID for KYC identity verification; OpenAI for AI-powered support; and Redis for caching. Three separate deployments — consumer app, backend API, and admin portal.
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -144,22 +152,24 @@ Production-grade REST API for a mobile lending platform: account creation, walle
 <td width="50%" valign="top">
 
 **Algorithmic Trading Suite**
-[Gold Breakout Bot](https://github.com/Ghost-tech-ng/Gold-breakout-bot) &nbsp;·&nbsp; [Crypto Signal Bot](https://github.com/Ghost-tech-ng/Crypto-Signal-Bot) &nbsp;·&nbsp; [Telegram Bot](https://github.com/Ghost-tech-ng/Telegram-Trading-Bot-)
+[BA-bot-MT5](https://github.com/Ghost-tech-ng/BA-bot-MT5) &nbsp;·&nbsp; [Gold Breakout Bot](https://github.com/Ghost-tech-ng/Gold-breakout-bot) &nbsp;·&nbsp; [Crypto Signal Bot](https://github.com/Ghost-tech-ng/Crypto-Signal-Bot) &nbsp;·&nbsp; [Telegram Bot](https://github.com/Ghost-tech-ng/Telegram-Trading-Bot-)
 
-Three Python-based trading systems for live markets: breakout detection on gold, SMC-based cryptocurrency signal generation, and a Telegram-native interface for real-time alerting. Built with risk controls for unsupervised operation.
+Four live trading systems across two stacks. BA-bot-MT5 is a production MQL5 Expert Advisor with modular architecture — BrokerDetector, NewsFilter, RiskManager, Signals engine, Statistics, and charting — achieving a 65% signal accuracy in live conditions. The Python suite covers gold breakout detection, SMC-based crypto signal generation, and Telegram-native real-time alerting.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-006B9F?style=flat-square&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**[Anxiety & Mental Wellness App](https://github.com/Ghost-tech-ng/Anxiety-app)**
+**[Football Performance Predictor](https://github.com/Ghost-tech-ng/football-performance-predictor)**
 
-React Native application using device accelerometer data for passive tremor detection, paired with haptic-guided breathing exercises and longitudinal anxiety tracking. Built for clinical usability rather than as a consumer wellness product.
+Machine learning pipeline predicting football player performance from historical FPL statistics. End-to-end system: data ingestion, feature engineering, model training, and an interactive web interface for querying predictions. Built to demonstrate applied ML on real-world sports analytics data.
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
 </tr>
