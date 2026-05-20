@@ -173,6 +173,21 @@ Machine learning pipeline predicting football player performance from historical
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Iron Discipline](https://github.com/Ghost-tech-ng/iron-discipline)** *(In Development)*
+
+Personal fitness transformation OS built in React Native and Expo. Offline-first architecture with SQLite persistence and Zustand state management. Features a custom daily discipline scoring engine, progressive overload tracking, macro and supplement logging, habit checklists with haptic feedback, and progress photo analytics with trend charts. Designed as a single system to replace every fragmented fitness tool.
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ---
