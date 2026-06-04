@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=520&lines=Agentic+AI+Pipelines+%7C+LLM+Integration;FinTech+%7C+Healthcare+AI+%7C+Real+Estate+Tech;Python+%7C+TypeScript+%7C+FastAPI+%7C+Node.js+%7C+Docker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=520&lines=Agentic+AI+Pipelines+%7C+LLM+Integration;FinTech+%7C+Healthcare+AI+%7C+Real+Estate+Tech;PHP+%7C+Laravel+%7C+Fullstack+Web+Development;Python+%7C+TypeScript+%7C+FastAPI+%7C+Node.js+%7C+Docker)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,13 +20,13 @@
 
 ## About
 
-Backend engineer and AI systems developer with 4+ years building production-grade LLM pipelines, FinTech APIs, and Healthcare AI platforms. My work sits at the intersection of applied AI and backend infrastructure — designing systems where models do real clinical or financial work, not demos.
+Fullstack engineer and AI systems developer with 4+ years building production-grade web applications, LLM pipelines, and FinTech APIs. I started as a PHP/Laravel developer — shipping Hospital Management Software, e-commerce platforms, and client web apps — before moving into AI-integrated backend architecture. That fullstack foundation is what makes the AI work actually land in production.
 
 Currently at **Aedion AI Team**, architecting V2 of the Aedion Healthcare AI chatbot with hybrid domain-specialised model routing. Previously led backend and AI integration at **ToksNet** for the Adeon AI Healthcare Platform: a 3-tier microservices system integrating Gemini 2.5 Pro and AWS Whisper, achieving 2.7x real-time transcription speed. As a freelance engineer at **SenatraxAI**, I shipped the BODI Real Estate Platform — a TypeScript microservices backend with Flutterwave escrow, Prembly KYC, and GitHub Actions CI/CD across two services.
 
-Earlier work includes senior Laravel development at Sosotoba Institute of Technology (Hospital Management Software, 500+ daily users) and junior software development at Tryve Technologies.
+Earlier: Senior Laravel Developer at Sosotoba Institute of Technology (Hospital Management Software, 500+ daily users, 2M+ record MySQL databases) and fullstack developer at Tryve Technologies building and maintaining PHP/Laravel client applications.
 
-B.Eng in Computer Engineering from the University of Benin. Fullstack certification from ALX Africa.
+B.Eng Computer Engineering, University of Benin. Fullstack Web Developer certification, ALX Africa.
 
 ---
 
@@ -40,9 +40,15 @@ B.Eng in Computer Engineering from the University of Benin. Fullstack certificat
 
 **Backend Engineering**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,laravel,express,graphql&theme=dark" height="36"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,graphql&theme=dark" height="36"/>
 
-&nbsp;`FastAPI` &nbsp;`Node.js` &nbsp;`Laravel` &nbsp;`Express` &nbsp;`REST & GraphQL APIs` &nbsp;`WebSocket` &nbsp;`Microservices` &nbsp;`Event-Driven Architecture` &nbsp;`System Design`
+&nbsp;`FastAPI` &nbsp;`Node.js` &nbsp;`Express` &nbsp;`REST & GraphQL APIs` &nbsp;`WebSocket` &nbsp;`Microservices` &nbsp;`Event-Driven Architecture` &nbsp;`System Design`
+
+**Fullstack & Web Development**
+
+<img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,html,css&theme=dark" height="36"/>
+
+&nbsp;`Laravel` &nbsp;`PHP` &nbsp;`React` &nbsp;`Next.js` &nbsp;`React Native` &nbsp;`REST APIs` &nbsp;`Blade Templates` &nbsp;`MySQL` &nbsp;`MVC Architecture`
 
 **Mobile**
 
@@ -176,6 +182,32 @@ Machine learning pipeline predicting football player performance from historical
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Hospital Management Software**
+*Sosotoba Institute of Technology — Aug 2023 – Feb 2024 — Private*
+
+Full-stack Hospital Management System built with PHP/Laravel serving 500+ daily active users. Modules covered patient records, doctor scheduling, appointment booking, billing, and pharmacy management. MySQL database optimised for 2M+ records via compound indexing and query restructuring. Led a 4-person team, established code review process, and mentored junior developers.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[BeautyMailer](https://github.com/Ghost-tech-ng/BeautyMailer)**
+
+Fullstack bulk email platform built in PHP with dynamic SMTP configuration, drag-and-drop file uploads, real-time progress tracking, and professionally designed responsive email templates. Demonstrates end-to-end fullstack PHP — server-side logic, frontend UI, file handling, and third-party integration via PHPMailer.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
 </tr>
