@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=520&lines=Microservices+Architecture+%7C+LLM+Integration;FinTech+%7C+Healthcare+AI+%7C+E-Commerce;Python+%7C+FastAPI+%7C+Node.js+%7C+Docker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=520&lines=Agentic+AI+Pipelines+%7C+LLM+Integration;FinTech+%7C+Healthcare+AI+%7C+Real+Estate+Tech;Python+%7C+TypeScript+%7C+FastAPI+%7C+Node.js+%7C+Docker)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,9 +20,11 @@
 
 ## About
 
-Backend engineer with five years of professional experience building production systems across FinTech, Healthcare, and E-commerce. My work is weighted toward AI integration — specifically designing systems where LLMs do real clinical or financial work, not demos.
+Backend engineer and AI systems developer with 4+ years building production-grade LLM pipelines, FinTech APIs, and Healthcare AI platforms. My work sits at the intersection of applied AI and backend infrastructure — designing systems where models do real clinical or financial work, not demos.
 
-Most recently at ToksNet, I led backend architecture for the Adeon AI Healthcare Platform: a 3-tier microservices system integrating Gemini 2.5 Pro and OpenAI Whisper for real-time medical transcription and automated condition analysis. Before that, Senior Laravel developer at Sosotoba Institute of Technology, leading a team building hospital management software on MySQL databases handling millions of records.
+Currently at **Aedion AI Team**, architecting V2 of the Aedion Healthcare AI chatbot with hybrid domain-specialised model routing. Previously led backend and AI integration at **ToksNet** for the Adeon AI Healthcare Platform: a 3-tier microservices system integrating Gemini 2.5 Pro and AWS Whisper, achieving 2.7x real-time transcription speed. As a freelance engineer at **SenatraxAI**, I shipped the BODI Real Estate Platform — a TypeScript microservices backend with Flutterwave escrow, Prembly KYC, and GitHub Actions CI/CD across two services.
+
+Earlier work includes senior Laravel development at Sosotoba Institute of Technology (Hospital Management Software, 500+ daily users) and junior software development at Tryve Technologies.
 
 B.Eng in Computer Engineering from the University of Benin. Fullstack certification from ALX Africa.
 
@@ -34,13 +36,13 @@ B.Eng in Computer Engineering from the University of Benin. Fullstack certificat
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" height="36"/>
 
-&nbsp;`LangChain` &nbsp;`LLMs — Gemini 2.5 Pro · GPT-4` &nbsp;`Whisper` &nbsp;`SHAP` &nbsp;`LIME` &nbsp;`RAG Pipelines` &nbsp;`FAISS`
+&nbsp;`LangChain` &nbsp;`AI Agents` &nbsp;`Prompt Engineering` &nbsp;`LLMs — Gemini 2.5 Pro — GPT-4` &nbsp;`Whisper` &nbsp;`SHAP` &nbsp;`LIME` &nbsp;`RAG Pipelines` &nbsp;`MLOps` &nbsp;`FAISS`
 
 **Backend Engineering**
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,laravel,express,graphql&theme=dark" height="36"/>
 
-&nbsp;`FastAPI` &nbsp;`Node.js` &nbsp;`Laravel` &nbsp;`Express` &nbsp;`REST & GraphQL APIs` &nbsp;`WebSocket` &nbsp;`Microservices`
+&nbsp;`FastAPI` &nbsp;`Node.js` &nbsp;`Laravel` &nbsp;`Express` &nbsp;`REST & GraphQL APIs` &nbsp;`WebSocket` &nbsp;`Microservices` &nbsp;`Event-Driven Architecture` &nbsp;`System Design`
 
 **Mobile**
 
@@ -50,9 +52,9 @@ B.Eng in Computer Engineering from the University of Benin. Fullstack certificat
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,nginx,linux&theme=dark" height="36"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,linux&theme=dark" height="36"/>
 
-&nbsp;`Docker` &nbsp;`AWS S3 · Transcribe` &nbsp;`Google Cloud Platform` &nbsp;`CI/CD` &nbsp;`Nginx`
+&nbsp;`Docker` &nbsp;`Kubernetes` &nbsp;`AWS S3 — Transcribe` &nbsp;`Google Cloud Platform` &nbsp;`CI/CD (GitHub Actions)` &nbsp;`Nginx`
 
 **Languages**
 
@@ -62,7 +64,7 @@ B.Eng in Computer Engineering from the University of Benin. Fullstack certificat
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark" height="36"/>
 
-&nbsp;`PostgreSQL` &nbsp;`MySQL` &nbsp;`Redis` &nbsp;`FAISS`
+&nbsp;`PostgreSQL` &nbsp;`MySQL` &nbsp;`Redis` &nbsp;`Supabase` &nbsp;`Prisma ORM` &nbsp;`FAISS`
 
 ---
 
@@ -72,10 +74,24 @@ B.Eng in Computer Engineering from the University of Benin. Fullstack certificat
 <tr>
 <td width="50%" valign="top">
 
-**Adeon AI Healthcare Platform**
-*ToksNet · Oct 2025 – Jan 2026 · Private*
+**BODI Real Estate Platform**
+*SenatraxAI — Dec 2025 – May 2026 — Private*
 
-3-tier microservices platform integrating Gemini 2.5 Pro and Whisper for automated medical transcription and skin/eye condition analysis. 20+ FastAPI endpoints with LangChain managing conversational context across sessions. Achieved 2.5–2.9× real-time transcription speed via multi-level caching and async architecture. Deployed with Docker, circuit breaker patterns, and HIPAA-conscious content safety pipelines.
+Nigerian real estate marketplace built as two TypeScript microservices (bodi-core-api + bodi-txn-service). Core API handles KYC-verified agent onboarding (Prembly), property listings, viewing scheduling, and user management via Prisma ORM + Supabase + AWS S3. Transaction service handles Flutterwave-powered escrow payments with auto-release triggers and admin approval flows. Full GitHub Actions CI/CD with Docker across both services.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**Adeon AI Healthcare Platform**
+*ToksNet — Oct 2025 – Jan 2026 — Private*
+
+3-tier microservices platform integrating Gemini 2.5 Pro and Whisper for automated medical transcription and skin/eye condition analysis. 20+ FastAPI endpoints with LangChain agentic RAG managing conversational context across sessions. Achieved 2.7x real-time transcription speed via multi-level Redis caching and async architecture. Deployed with Docker, circuit breaker patterns, and HIPAA-conscious content safety pipelines.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -84,50 +100,26 @@ B.Eng in Computer Engineering from the University of Benin. Fullstack certificat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Crime Prediction & Explainable AI](https://github.com/Ghost-tech-ng/crime-prediction-explainable-ai)**
 
-Machine learning pipeline for crime pattern prediction built around transparent decision-making. TensorFlow model with SHAP and LIME post-hoc explainability, surfaced via a Streamlit dashboard that lets analysts interrogate individual predictions rather than treat the model as a black box.
+Machine learning pipeline for crime pattern prediction built around transparent decision-making. 4-model TensorFlow ensemble (Random Forest, Gradient Boosting, Logistic Regression, Neural Network) with SHAP and LIME post-hoc explainability, surfaced via a Streamlit dashboard with geospatial heatmaps and per-prediction feature attribution. Final year B.Eng project.
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Keystroke Dynamic Digital Twin](https://github.com/Ghost-tech-ng/Keystroke-digital-twin)**
-
-Statistical digital twin for behavioural biometric authentication. Anomaly detection on keystroke dynamics using Isolation Forest, One-Class SVM, and distance-based baselines — evaluated against the CMU benchmark dataset. University of Lincoln, CMP3753.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**[Lincoln Business Suitability Index](https://github.com/Ghost-tech-ng/lincoln-bsi)**
-
-Spatial analytics pipeline analysing 13,097 businesses across 55 H3 hexagonal zones in Lincoln, UK. Ingests ONS Census 2021 and OpenStreetMap data, computes a composite Business Suitability Index, and surfaces results through a Flask API and React map dashboard.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[GiftyView](https://github.com/Ghost-tech-ng/giftyview-backend) — Gift Card & Payments Platform**
-*Active Production · [App](https://github.com/Ghost-tech-ng/giftyview-app) · [API](https://github.com/Ghost-tech-ng/giftyview-backend)*
+*Active Production — [App](https://github.com/Ghost-tech-ng/giftyview-app) | [API](https://github.com/Ghost-tech-ng/giftyview-backend)*
 
-Production FinTech platform for global gift card trading, crypto exchange, and utility bill payments. Flutter cross-platform app backed by a TypeScript/Prisma API integrating Flutterwave, Paystack, and Korapay for fiat payments; Bitnob, Quidax, and NowPayments for crypto; Reloadly and Prestmit for gift card fulfilment; VTPass for bills; SmileID for KYC identity verification; OpenAI for AI-powered support; and Redis for caching. Three separate deployments — consumer app, backend API, and admin portal.
+Production FinTech platform for global gift card trading, crypto exchange, and utility bill payments. Flutter cross-platform app backed by a TypeScript/Prisma API integrating Flutterwave, Paystack, and Korapay for fiat; Bitnob, Quidax, and NowPayments for crypto; Reloadly and Prestmit for gift card fulfilment; VTPass for bills; SmileID for KYC; OpenAI for AI-powered support; and Redis for caching.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -136,40 +128,29 @@ Production FinTech platform for global gift card trading, crypto exchange, and u
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Lendsqr Digital Wallet Backend](https://github.com/Ghost-tech-ng/Lendsqtr-backend-project)**
 
-Production-grade REST API for a mobile lending platform: account creation, wallet funding, peer-to-peer transfers, and withdrawals with real-time blacklist screening via the Lendsqr Adjutor API. Node.js, TypeScript, KnexJS on MySQL with full unit test coverage.
+Production-grade REST API for a mobile lending platform: account creation, wallet funding, peer-to-peer transfers, and withdrawals with real-time blacklist screening via the Lendsqr Adjutor API. Node.js, TypeScript, KnexJS on MySQL with full unit test coverage including failure-path scenarios.
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **Algorithmic Trading Suite**
-[BA-bot-MT5](https://github.com/Ghost-tech-ng/BA-bot-MT5) &nbsp;·&nbsp; [Gold Breakout Bot](https://github.com/Ghost-tech-ng/Gold-breakout-bot) &nbsp;·&nbsp; [Crypto Signal Bot](https://github.com/Ghost-tech-ng/Crypto-Signal-Bot) &nbsp;·&nbsp; [Telegram Bot](https://github.com/Ghost-tech-ng/Telegram-Trading-Bot-)
+[Gold Breakout Bot](https://github.com/Ghost-tech-ng/Gold-breakout-bot) &nbsp;·&nbsp; [Crypto Signal Bot](https://github.com/Ghost-tech-ng/Crypto-Signal-Bot) &nbsp;·&nbsp; [Telegram Bot](https://github.com/Ghost-tech-ng/Telegram-Trading-Bot-)
 
-Four live trading systems across two stacks. BA-bot-MT5 is a production MQL5 Expert Advisor with modular architecture — BrokerDetector, NewsFilter, RiskManager, Signals engine, Statistics, and charting — achieving a 65% signal accuracy in live conditions. The Python suite covers gold breakout detection, SMC-based crypto signal generation, and Telegram-native real-time alerting.
+Python-based trading systems across FinTech and crypto. Gold breakout detection scans XAU/USD across M15/M30/H1 every 5 minutes using Bollinger Bands, ATR, and S/R breaks with a 2:1 R:R minimum filter and ~70% false-positive reduction. Crypto signal bot uses SMC logic with Telegram delivery. Telegram trading bot supports multi-coin deposits, withdrawals, and admin management.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MQL5](https://img.shields.io/badge/MQL5-006B9F?style=flat-square&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**[Football Performance Predictor](https://github.com/Ghost-tech-ng/football-performance-predictor)**
-
-Machine learning pipeline predicting football player performance from historical FPL statistics. End-to-end system: data ingestion, feature engineering, model training, and an interactive web interface for querying predictions. Built to demonstrate applied ML on real-world sports analytics data.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
 </tr>
@@ -178,7 +159,7 @@ Machine learning pipeline predicting football player performance from historical
 
 **[Iron Discipline](https://github.com/Ghost-tech-ng/iron-discipline)** *(In Development)*
 
-Personal fitness transformation OS built in React Native and Expo. Offline-first architecture with SQLite persistence and Zustand state management. Features a custom daily discipline scoring engine, progressive overload tracking, macro and supplement logging, habit checklists with haptic feedback, and progress photo analytics with trend charts. Designed as a single system to replace every fragmented fitness tool.
+Personal fitness transformation OS built in React Native and Expo. Offline-first architecture with SQLite persistence and Zustand state management. Features a custom daily discipline scoring engine, progressive overload tracking, macro and supplement logging, barcode food scan, habit checklists with haptic feedback, and 12-week progress trend analytics. 80+ component architecture designed to replace every fragmented fitness tool.
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
@@ -186,7 +167,17 @@ Personal fitness transformation OS built in React Native and Expo. Offline-first
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+**[Football Performance Predictor](https://github.com/Ghost-tech-ng/football-performance-predictor)**
+
+Machine learning pipeline predicting football player performance from historical FPL statistics. End-to-end system: data ingestion, feature engineering, model training, and an interactive web interface for querying predictions.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
 </tr>
 </table>
 
@@ -196,7 +187,10 @@ Personal fitness transformation OS built in React Native and Expo. Offline-first
 
 | Period | Role | Organisation |
 |--------|------|--------------|
-| Oct 2025 – Jan 2026 | AI Engineer · Lead Backend Developer | ToksNet *(Remote)* |
+| May 2026 – Present | AI Engineer — Chatbot Architecture | Aedion AI Team *(Remote)* |
+| Dec 2025 – May 2026 | Freelance Backend Engineer | SenatraxAI *(Remote)* |
+| Oct 2025 – Jan 2026 | AI Engineer — Lead Backend Developer | ToksNet *(Remote)* |
+| Apr 2024 – Oct 2025 | Independent Developer & Researcher | Freelance / Self-directed |
 | Aug 2023 – Feb 2024 | Senior Laravel Developer | Sosotoba Institute of Technology |
 | Jun 2022 – Jul 2023 | Junior Software Developer | Tryve Technologies |
 
@@ -204,9 +198,9 @@ Personal fitness transformation OS built in React Native and Expo. Offline-first
 
 ## Education
 
-**B.Eng Computer Engineering** &nbsp;—&nbsp; University of Benin, Nigeria &nbsp;·&nbsp; *2024*
+**B.Eng Computer Engineering** &nbsp;·&nbsp; University of Benin, Nigeria &nbsp;·&nbsp; *2024*
 
-**Fullstack Web Developer** &nbsp;—&nbsp; ALX Africa &nbsp;·&nbsp; *2023*
+**Fullstack Web Developer** &nbsp;·&nbsp; ALX Africa &nbsp;·&nbsp; *2023*
 
 ---
 
@@ -247,4 +241,3 @@ Personal fitness transformation OS built in React Native and Expo. Offline-first
 <img src="https://komarev.com/ghpvc/?username=Ghost-tech-ng&color=58a6ff&style=flat-square&label=Profile+Views"/>
 
 </div>
-
