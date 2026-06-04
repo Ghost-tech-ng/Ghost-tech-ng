@@ -22,7 +22,7 @@
 
 Fullstack engineer and AI systems developer with 4+ years building production-grade web applications, LLM pipelines, and FinTech APIs. I started as a PHP/Laravel developer — shipping Hospital Management Software, e-commerce platforms, and client web apps — before moving into AI-integrated backend architecture. That fullstack foundation is what makes the AI work actually land in production.
 
-Currently at **Aedion AI Team**, architecting V2 of the Aedion Healthcare AI chatbot with hybrid domain-specialised model routing. Previously led backend and AI integration at **ToksNet** for the Adeon AI Healthcare Platform: a 3-tier microservices system integrating Gemini 2.5 Pro and AWS Whisper, achieving 2.7x real-time transcription speed. As a freelance engineer at **SenatraxAI**, I shipped the BODI Real Estate Platform — a TypeScript microservices backend with Flutterwave escrow, Prembly KYC, and GitHub Actions CI/CD across two services.
+Most recently contributing to **Aedion AI Team**, architecting V2 of the Aedion Healthcare AI chatbot with hybrid domain-specialised model routing. Before that, led backend and AI integration at **ToksNet** for the Adeon AI Healthcare Platform: a 3-tier microservices system integrating Gemini 2.5 Pro and AWS Whisper, achieving 2.7x real-time transcription speed. As a freelance engineer at **SenatraxAI**, I shipped the BODI Real Estate Platform — a TypeScript microservices backend with Flutterwave escrow, Prembly KYC, and GitHub Actions CI/CD across two services.
 
 Earlier: Senior Laravel Developer at Sosotoba Institute of Technology (Hospital Management Software, 500+ daily users, 2M+ record MySQL databases) and fullstack developer at Tryve Technologies building and maintaining PHP/Laravel client applications.
 
@@ -219,7 +219,7 @@ Fullstack bulk email platform built in PHP with dynamic SMTP configuration, drag
 
 | Period | Role | Organisation |
 |--------|------|--------------|
-| May 2026 – Present | AI Engineer — Chatbot Architecture | Aedion AI Team *(Remote)* |
+| May 2026 | AI Collaborator — Chatbot Architecture | Aedion AI Team *(Remote)* |
 | Dec 2025 – May 2026 | Freelance Backend Engineer | SenatraxAI *(Remote)* |
 | Oct 2025 – Jan 2026 | AI Engineer — Lead Backend Developer | ToksNet *(Remote)* |
 | Apr 2024 – Oct 2025 | Independent Developer & Researcher | Freelance / Self-directed |
