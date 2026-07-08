@@ -14,22 +14,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
+      - name: Generate contribution snake
+        uses: Platane/snk/action@v3
         with:
           github_user_name: Ghost-tech-ng
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
+      - name: Push output branch
         run: |
           cd dist
-          git init
+          git init -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "chore: regenerate snake animation"
-          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Ghost-tech-ng/Ghost-tech-ng.git" HEAD:output
+          git commit -m "regen snake"
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Ghost-tech-ng/Ghost-tech-ng.git" output:output
