@@ -42,15 +42,17 @@ B.Eng Computer Engineering, University of Benin. Fullstack Web Developer certifi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ghost-tech-ng&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ghost-tech-ng&theme=github_dark" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-tech-ng&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ghost-tech-ng&theme=github_dark" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghost-tech-ng&theme=github_dark" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Ghost-tech-ng&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghost-tech-ng&theme=github_dark" width="100%"/>
 
 </div>
 
@@ -228,14 +230,6 @@ XAU/USD breakout detection across M15/M30/H1 using Bollinger Bands, ATR, and S/R
 </div>
 
 ---
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ghost-tech-ng&theme=darkhub&no-frame=true&margin-w=6&margin-h=6&row=1&column=7" width="100%"/>
-
-</div>
 
 ---
 
